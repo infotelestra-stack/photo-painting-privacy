@@ -2,68 +2,106 @@
 
 Last updated: January 28, 2026
 
-CreatorBio AI respects your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use our mobile application.
+CreatorBio AI (“we”, “our”, or “us”) respects your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use the CreatorBio AI mobile application.
+
+---
 
 ## 1. Information We Collect
 
 We may collect the following types of information:
 
-- Personal Information: Name, email address (only if you contact support)
-- App Usage Data: App interactions, feature usage, crash reports
-- Device Information: Device model, operating system version
-- Network Information: IP address (for analytics and security purposes)
+### Personal Information
+- Name and email address (only if you contact us for support)
 
-We do NOT collect:
-- Precise location
+### App Usage Data
+- App interactions
+- Feature usage
+- Crash reports and diagnostics
+
+### Device Information
+- Device model
+- Operating system version
+
+### Network Information
+- IP address (used for analytics and security purposes only)
+
+We **do not** collect:
+- Precise location data
 - Contacts
 - Messages
 - Photos or videos without your permission
-- Sensitive personal data
+- Sensitive personal information
+
+---
 
 ## 2. How We Use Your Information
 
-We use the collected data to:
-- Improve app performance
+We use collected information to:
+- Improve app performance and stability
 - Fix bugs and crashes
 - Provide AI-generated bios and content
 - Enhance user experience
-- Respond to support queries
+- Respond to user support requests
 
-## 3. Third-Party Services
+---
 
-CreatorBio AI may use trusted third-party services:
+## 3. AI & Content Processing
+
+CreatorBio AI uses third-party AI services to generate bios and written content.  
+Text entered by users may be securely processed by these services **only to generate requested content**.
+
+We do not use user data to train our own AI models.
+
+---
+
+## 4. Third-Party Services
+
+We may use trusted third-party services, including:
 
 - Firebase Analytics
 - Firebase Crashlytics
-- AI API providers (for generating bios and content)
+- AI API providers (for content generation)
+- Apple In-App Purchases (for subscriptions)
 
-These services follow their own privacy policies and comply with data protection standards.
+These services process data according to their respective privacy policies and industry standards.
 
-## 4. Data Security
+---
 
-We use industry-standard security practices to protect your data. However, no method of transmission over the internet is 100% secure.
+## 5. Data Security
 
-## 5. Children’s Privacy
+We use industry-standard security measures to protect your data.  
+However, no method of electronic transmission or storage is completely secure.
 
-CreatorBio AI is not intended for children under the age of 13. We do not knowingly collect data from children.
+---
 
-## 6. User Rights
+## 6. Children’s Privacy
+
+CreatorBio AI is not intended for children under the age of 13.  
+We do not knowingly collect personal information from children.
+
+---
+
+## 7. Your Rights
 
 You have the right to:
 - Request deletion of your data
 - Request information about stored data
 - Stop using the app at any time
 
-For any requests, contact us at:
-📧 your-email@example.com
+To exercise these rights, contact us using the email below.
 
-## 7. Changes to This Policy
+---
 
-We may update this Privacy Policy from time to time. Changes will be reflected on this page.
+## 8. Changes to This Policy
 
-## 8. Contact Us
+We may update this Privacy Policy from time to time.  
+Any changes will be reflected on this page with an updated date.
 
-If you have any questions about this Privacy Policy, contact us:
+---
 
-Email: your-info.telestra.com  
+## 9. Contact Us
+
+If you have any questions about this Privacy Policy, you may contact us at:
+
+Email: info.telestra@gmail.com  
 App Name: CreatorBio AI
