@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<privacyPolicy>
+    <appName>Salary Survival</appName>
+    <lastUpdated>March 2026</lastUpdated>
+
+    <introduction>
+        Salary Survival ("we", "our", or "us") operates the Salary Survival mobile application.
+        This Privacy Policy explains how we collect, use, and protect your information when you use our application.
+    </introduction>
+
+    <informationCollection>
+        <title>Information We Collect</title>
+        <description>
+            Salary Survival is designed to respect your privacy.
+            We do not collect or store personal information on our servers.
+        </description>
+
+        <dataStoredLocally>
+            All financial data such as salary entries, expense records, and monthly reports
+            are stored locally on your device only.
+        </dataStoredLocally>
+    </informationCollection>
+
+    <dataStorage>
+        <title>Data Storage</title>
+        <description>
+            All data created inside the app is stored locally on your device using secure storage.
+            We do not have access to your personal financial information.
+            If you uninstall the application, the stored data may be removed from your device.
+        </description>
+    </dataStorage>
+
+    <thirdPartyServices>
+        <title>Third-Party Services</title>
+        <description>
+            The application may use third-party services such as Google Play services
+            to improve app functionality and understand usage.
+            These services may collect information according to their own privacy policies.
+        </description>
+    </thirdPartyServices>
+
+    <advertising>
+        <title>Advertising</title>
+        <description>
+            Salary Survival may display advertisements provided by third-party advertising partners.
+            These partners may use device identifiers or cookies to show relevant advertisements.
+        </description>
+    </advertising>
+
+    <childrenPrivacy>
+        <title>Children's Privacy</title>
+        <description>
+            Salary Survival is not directed toward children under the age of 13.
+            We do not knowingly collect personal information from children.
+        </description>
+    </childrenPrivacy>
+
+    <security>
+        <title>Security</title>
+        <description>
+            We take reasonable measures to protect your data.
+            However, no method of electronic storage is completely secure.
+        </description>
+    </security>
+
+    <policyChanges>
+        <title>Changes to This Policy</title>
+        <description>
+            We may update this Privacy Policy from time to time.
+            Any updates will be posted on this page.
+        </description>
+    </policyChanges>
+
+    <contact>
+        <title>Contact Us</title>
+        <email>your-info.telestra@gmail.com</email>
+    </contact>
+</privacyPolicy>
